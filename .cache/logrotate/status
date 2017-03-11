@@ -1,0 +1,18 @@
+logrotate state -- version 2
+"/home/aishwarya/.cache/upstart/unity-panel-service.log" 2017-3-11-21:1:50
+"/home/aishwarya/.cache/upstart/upstart-event-bridge.log" 2017-3-11-21:1:50
+"/home/aishwarya/.cache/upstart/gpg-agent.log" 2017-3-11-21:1:50
+"/home/aishwarya/.cache/upstart/indicator-printers.log" 2017-3-9-18:24:27
+"/home/aishwarya/.cache/upstart/bamfdaemon.log" 2017-3-9-18:24:27
+"/home/aishwarya/.cache/upstart/unity-settings-daemon.log" 2017-3-11-21:1:50
+"/home/aishwarya/.cache/upstart/window-stack-bridge.log" 2017-3-11-21:1:50
+"/home/aishwarya/.cache/upstart/update-notifier-release.log" 2017-3-11-21:1:50
+"/home/aishwarya/.cache/upstart/dbus.log" 2017-3-11-21:1:50
+"/home/aishwarya/.cache/upstart/gnome-keyring-ssh.log" 2017-3-11-21:1:50
+"/home/aishwarya/.cache/upstart/unity7.log" 2017-3-11-21:1:50
+"/home/aishwarya/.cache/upstart/hud.log" 2017-3-11-21:1:50
+"/home/aishwarya/.cache/upstart/indicator-keyboard.log" 2017-3-9-18:24:27
+"/home/aishwarya/.cache/upstart/update-notifier-crash-_var_crash__usr_share_apport_apport-gtk.1000.crash.log" 2017-3-11-21:1:50
+"/home/aishwarya/.cache/upstart/update-notifier-crash-_var_crash__sbin_upstart.1000.crash.log" 2017-3-11-21:1:50
+"/home/aishwarya/.cache/upstart/ssh-agent.log" 2017-3-11-21:1:50
+"/home/aishwarya/.cache/upstart/indicator-sound.log" 2017-3-11-21:1:50

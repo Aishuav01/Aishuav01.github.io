@@ -1,0 +1,11 @@
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+upstart: Disconnected from notified D-Bus bus
+upstart: bamfdaemon main process (1610) killed by TERM signal
+upstart: indicator-bluetooth main process (1673) killed by TERM signal
+upstart: indicator-power main process (1675) killed by TERM signal
+upstart: indicator-datetime main process (1676) killed by TERM signal
+upstart: indicator-printers main process (1681) killed by TERM signal
+upstart: indicator-session main process (1682) killed by TERM signal
+upstart: indicator-application main process (1688) killed by TERM signal
+upstart: unity-panel-service main process (1641) killed by TERM signal

@@ -1,0 +1,27 @@
+1489246871831	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1489247289238	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1489247289325	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1489247289336	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1489247289348	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1489247289373	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+
+(nautilus:6189): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6189): GLib-GIO-CRITICAL **: g_dbus_interface_skeleton_unexport: assertion 'interface_->priv->connections != NULL' failed
+
+(nautilus:6189): Gtk-CRITICAL **: gtk_icon_theme_get_for_screen: assertion 'GDK_IS_SCREEN (screen)' failed
+
+(nautilus:6189): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(nautilus:6189): GLib-GObject-CRITICAL **: g_signal_connect_object: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+Gtk-Message: GtkDialog mapped without a transient parent. This is discouraged.
+WARN  2017-03-11 21:59:00 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2017-03-11 21:59:00 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2017-03-11 21:59:13 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2017-03-11 21:59:13 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2017-03-11 22:01:41 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2017-03-11 22:01:41 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2017-03-11 22:01:58 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2017-03-11 22:01:58 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2017-03-11 22:02:11 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
+WARN  2017-03-11 22:02:11 unityreak_table (break_type) <unknown>:0 Invalid UTF-8 string passed to pango_layout_set_text()
